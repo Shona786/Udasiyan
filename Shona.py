@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-# Originally Written By:Muhammad Hamza
+# Originally Written By:Shona x Mishal
 # Source : Python2"
 # Donot Recode It.
 
@@ -60,21 +60,21 @@ def exitt():
 		
 ##### LOGO #####
 banner = """
-\033[1;97m            _______    _______ 
-\033[1;97m|\     /|  (  ___  )  (  ____ )
-\033[1;97m| )   ( |  | (   ) |  | (    )|
-\033[1;97m| (___) |  | |   | |  | (____)|
-\033[1;97m|  ___  |  | |   | |  |  _____)
-\033[1;97m| (   ) |  | |   | |  | (      
-\033[1;97m| )   ( |  | (___) |  | )      
-\033[1;97m|/     \|  (_______)  |/ 
+\033[1;97m           
+\033[1;97m| Shona x Mishal
+\033[1;97m| 
+\033[1;97m|
+\033[1;97m|
+\033[1;97m| 
+\033[1;97m| 
+\033[1;97m|
                                  
 \033[1;97m---------------------------------------------------
  
-➣ Coder     : Muhammad Hamza
-➣ Github    : https://github.com/Hamzahash
-➣ Instagram : muhammad.hamza1626
-➣ Youtube   : HOP Anonymous
+➣ Coder     : Shona x Mishal
+➣ Github    : https://github.com/Shona786/mishal.py
+➣
+➣ whatsapp   : 03035191880
 ➣ Warning   : I'M Not Responsible For Any Illegal Act.
 
 ---------------------------------------------------"""
@@ -266,8 +266,8 @@ def menu():
 		exit()
 	os.system("clear")
 	print banner
-	print "║[✔] Name : "+nama
-	print "║[✔] ID   : "+id
+	print sucessfull  name 
+	print 
 	print "\033[1;97m╚"+40*"═"
 	print('-----------------------')
 	print "[1] Start Cloning."
